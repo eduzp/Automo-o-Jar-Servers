@@ -1,5 +1,5 @@
 # Script de Identificação de Servidores Minecraft
-Script criado por eduzp.
+### Script criado por eduzp.
 
 🛠️ O que ele faz?
 Esse script foi feito pra facilitar a vida de quem lida com múltiplos servidores Minecraft (principalmente em redes com BungeeCord). Ele identifica automaticamente os arquivos .jar de servidores, mesmo com nomes diferentes ou pastas bagunçadas.
