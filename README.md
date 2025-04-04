@@ -16,5 +16,5 @@ Este script foi criado para automatizar a identificação e execução de servid
 
 • Identifica se o servidor está rodando com BungeeCord.
 
-#### https://youtu.be/G1jfj1cIU20
+#### SHOWCASE: https://youtu.be/G1jfj1cIU20
 #### Feito por eduzp, com foco em automação e praticidade para administradores de servidores Minecraft.
