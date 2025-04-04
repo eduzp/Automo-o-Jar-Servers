@@ -1,10 +1,10 @@
 # Script de Identificação de Servidores Minecraft
-### Script criado por eduzp.
+##### Script criado por eduzp.
 
-##### Sobre
+### Sobre
 Este script foi criado para automatizar a identificação e execução de servidores Minecraft, economizando tempo e evitando configurações manuais repetitivas.
 
-##### Funcionalidades
+### Funcionalidades
 
 • Detecta automaticamente o arquivo .jar de inicialização, mesmo que o nome seja personalizado).
      
@@ -17,4 +17,4 @@ Este script foi criado para automatizar a identificação e execução de servid
 • Identifica se o servidor está rodando com BungeeCord.
 
 
-##### Feito por eduzp, com foco em automação e praticidade para administradores de servidores Minecraft.
+#### Feito por eduzp, com foco em automação e praticidade para administradores de servidores Minecraft.
