@@ -1,7 +1,7 @@
 # Script de Identificação de Servidores Minecraft
 ### Script criado por eduzp.
 
-#####📝 Sobre
+##### 📝 Sobre
 Este script foi criado para automatizar a identificação e execução de servidores Minecraft, economizando tempo e evitando configurações manuais repetitivas.
 
 ##### Funcionalidades
