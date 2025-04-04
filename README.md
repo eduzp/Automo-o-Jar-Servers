@@ -1,4 +1,4 @@
-#Script de Identificação de Servidores Minecraft#
+#Script de Identificação de Servidores Minecraft
 Script criado por eduzp.
 
 🛠️ O que ele faz?
