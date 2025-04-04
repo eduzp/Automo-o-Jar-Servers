@@ -1,21 +1,20 @@
 # Script de Identificação de Servidores Minecraft
 ### Script criado por eduzp.
 
-🛠️ O que ele faz?
-Esse script foi feito pra facilitar a vida de quem lida com múltiplos servidores Minecraft (principalmente em redes com BungeeCord). Ele identifica automaticamente os arquivos .jar de servidores, mesmo com nomes diferentes ou pastas bagunçadas.
+#####📝 Sobre
+Este script foi criado para automatizar a identificação e execução de servidores Minecraft, economizando tempo e evitando configurações manuais repetitivas.
 
-⚙️ Funcionalidades
-🔍 Detecta automaticamente o .jar de boot do servidor, sem precisar digitar o nome.
+##### Funcionalidades
 
-🗂️ Pega o nome da pasta do servidor e usa como título no CMD.
+• Detecta automaticamente o arquivo .jar de inicialização, mesmo que o nome seja personalizado).
+     
+• Usa o nome da pasta do servidor para definir o título do terminal (CMD).
 
-🔁 Verifica se o BungeeCord está ativo.
+• Lê o server.properties, identifica o IP/PORTA configurado e copia para a área de transferência.
 
-🔐 Detecta se o modo online (online-mode) está ativado.
+• Informa se o online-mode está ativado ou desativado.
 
-🌐 Lê e identifica o IP configurado no servidor.
+• Identifica se o servidor está rodando com BungeeCord.
 
-📋 Copia o IP diretamente pra área de transferência.
 
-✅ Simples, rápido e direto ao ponto.
-Ideal pra quem mexe com servidores o dia todo e quer automatizar tarefas básicas sem ficar fuçando em arquivos toda hora.
+##### Feito por eduzp, com foco em automação e praticidade para administradores de servidores Minecraft.
